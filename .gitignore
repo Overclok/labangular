@@ -69,6 +69,7 @@ yarn-error.log*
 
 # IDEs
 jsconfig.json
+.angular
 
 # Intellij IDEA/WebStorm
 # https://intellij-support.jetbrains.com/hc/en-us/articles/206544839
